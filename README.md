@@ -52,6 +52,3 @@ The recommendation model is summarized in the `content_based_recsys.ipynb` noteb
 
 Please follow the instruction in the notebook to produce the result.
 
-### Deployment
-
-In order to access the final version of the app, please visit the following link: [nazaryaremko1.pythonanywhere.com](nazaryaremko1.pythonanywhere.com)
