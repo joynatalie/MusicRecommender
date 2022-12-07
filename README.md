@@ -1,7 +1,7 @@
 # MusicRecommender
 ## Introduction
 
-The goal of this project is to recommend songs for a given playlist. This project starts from data collection all the way to model deployment to ensure you have a working model to showcase.
+The goal of this project is to recommend songs for a given playlist. This project starts from data collection all the way to model deployment to ensure you have a working model to showcase. This project was done by me alone. 
 
 ## How to use
 
